@@ -22,18 +22,18 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR5d0004_000-HFL.yaml, hash: 'sha256:1050ebf69d27dd61d38420e99ffb92faa1da15661433df67b6b5b15f1d5d0bc7'}
+  - {seq: 0, filename: KR5d0004_000-HFL.yaml, hash: 'sha256:f26d0c4253327749bb8bd265126e01692afbeb4f54972b9b63d6307e75215d83'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5d0004_000-HFL.markers.yaml, hash: 'sha256:429d40d1a649955f4dac2b3607106bc74ad133d82d0eba2ef4e0e1fa6b17e82e'}
+  - {seq: 0, role: markers, filename: assets/KR5d0004_000-HFL.markers.yaml, hash: 'sha256:0f1329d1d9bd6ece34bdeb09aed86953fff918e9d75f32f1d258eea070c9ce51'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR5d0004_HFL_000-001a
     span:
     - body
-    - 0
-    - 0
+    - 1767
+    - 1767
   label: juan 000
   type: section
   level: 1
-hash: sha256:fe354d91ab419c22219e5025c2f3eaea297483487fd3d0d68fe873d974634d1c
+hash: sha256:2bc15d8b1eefe0bf517ffdb4a0c64c446b2bd81714869528b141b9443bbc804d

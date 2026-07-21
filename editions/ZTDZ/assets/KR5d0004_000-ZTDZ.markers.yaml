@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5d0004/ZTDZ/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5d0004_ZTDZ_000-bkkkrnewl1}
@@ -467,9 +467,8 @@ markers:
   - {type: line-break, offset: 1757, content: '', id: KR5d0004_SJB_000-190927a08}
   - {type: punctuation, offset: 1766, content: (, id: KR5d0004_ZTDZ_000-bkkpn1}
   - {type: 'voice:problem', offset: 1766, length: 0, id: KR5d0004_ZTDZ_000-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 1766}
-  body:
-  - {type: punctuation, offset: 0, content: ), id: KR5d0004_ZTDZ_000-bkkpn1}
-  - {type: paragraph-break, offset: 0, content: '
+  - {type: punctuation, offset: 1767, content: ), id: KR5d0004_ZTDZ_000-bkkpn1}
+  - {type: paragraph-break, offset: 1767, content: '
 
 
 
@@ -483,11 +482,11 @@ markers:
 
 
       ', id: KR5d0004_ZTDZ_000-bkkp1}
-  - {type: line-break, offset: 0, content: '', id: KR5d0004_SJB_000-190927a09}
-  - {type: indent, offset: 0, content: 　, id: KR5d0004_ZTDZ_000-bkkind1}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: line-break, offset: 1767, content: '', id: KR5d0004_SJB_000-190927a09}
+  - {type: indent, offset: 1767, content: 　, id: KR5d0004_ZTDZ_000-bkkind1}
+  - {type: 'kr:newline', offset: 1767, content: '
 
       ', id: KR5d0004_ZTDZ_000-bkkkrnewl1}
-  - {type: 'voice:problem', offset: 0, length: 0, id: KR5d0004_ZTDZ_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
+  - {type: 'voice:problem', offset: 1767, length: 0, id: KR5d0004_ZTDZ_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   back: []
-hash: sha256:5513fd2ce91b0dc714c1151133ada79edb900dbf732e4f8e1e5f19ea35319b3b
+hash: sha256:77bafbb23954c3f33c887ede6dd8cae1d9f92ccbdf2308aed856134f2da0e961
